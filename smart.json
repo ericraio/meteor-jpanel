@@ -1,0 +1,9 @@
+{
+  "name": "jpanel",
+  "description": "jPanelMenu is a jQuery plugin that creates a paneled-style menu",
+  "homepage": "https://github.com/ericraio/meteor-jpanel",
+  "author": "Eric Raio <ericraio@gmail.com> (http://ericscript.come)",
+  "version": "0.0.1",
+  "git": "https://github.com/ericraio/meteor-jpanel.git",
+  "packages": {}
+}
